@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/VarunGmBrights",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
+    "https://drive.google.com/file/d/1LmuGwAp2lr999jHsED2EoYuWZOYdjvuQ/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
   insta: "https://www.instagram.com/selfvarun14/",
   facebook: "https://www.facebook.com/raadha.g.9",
@@ -256,3 +256,4 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
