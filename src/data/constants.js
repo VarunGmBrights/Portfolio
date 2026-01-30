@@ -11,7 +11,6 @@ export const Bio = {
   github: "https://github.com/VarunGmBrights",
   resume:
     "https://drive.google.com/file/d/1LmuGwAp2lr999jHsED2EoYuWZOYdjvuQ/view?usp=drivesdk",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
   insta: "https://www.instagram.com/selfvarun14/",
   facebook: "https://www.facebook.com/raadha.g.9",
 };
@@ -256,4 +255,5 @@ export const TimeLineData = [
   { year: 2020, text: "Shared my projects with the world" },
   { year: 2021, text: "Started my own platform" },
 ];
+
 
